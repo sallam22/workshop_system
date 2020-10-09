@@ -69,7 +69,7 @@
         <li><a href="#home" class="page-scroll">Home</a></li>
         <li><a href="#about" class="page-scroll">About</a></li>
         <li><a href="#portfolio" class="page-scroll">Portfolio</a></li>
-        <li><a href="apsystem/index.php" class="page-scroll">Contact</a></li>
+        <li><a href="#contact" class="page-scroll">Contact</a></li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
@@ -83,7 +83,7 @@
       <div class="row">
         <div class="intro-text">
           
-          <h1> الورشة الرئسية 101 للمدرعات</h1>
+          <h1> الورشة الرئيسية 101 للمدرعات</h1>
           <p> جوده   كفاءة   تطور </p>
 <a href="delete.php" class="btn btn-custom btn-lg page-scroll">مكتب القائد </a>
 
